@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a07ef16.css",
+    "main.js": "/static/js/main.11b47f3d.js",
+    "static/js/787.6ef60342.chunk.js": "/static/js/787.6ef60342.chunk.js",
+    "static/media/main.png": "/static/media/main.8cbed6f8bfa179ed5def.png",
+    "static/media/불굴의의지_4_배영수.jpg": "/static/media/불굴의의지_4_배영수.e28e115a611342fdb5d4.jpg",
+    "static/media/세계선수권_2_김시진.jpg": "/static/media/세계선수권_2_김시진.efd9d1cd73976a611332.jpg",
+    "static/media/세계선수권_1_장효조.jpg": "/static/media/세계선수권_1_장효조.ae594216f140865b5948.jpg",
+    "static/media/세계선수권_4_김재박.jpg": "/static/media/세계선수권_4_김재박.50b0bd23a3c77a7785bc.jpg",
+    "static/media/불굴의의지_1_이상훈.jpg": "/static/media/불굴의의지_1_이상훈.1f73655ad41eb40e7091.jpg",
+    "static/media/불굴의의지_3_니퍼트.jpg": "/static/media/불굴의의지_3_니퍼트.ff30570e8bbc7704fe94.jpg",
+    "static/media/불굴의의지_2_박정태.jpg": "/static/media/불굴의의지_2_박정태.e68373cd4b673e41b46f.jpg",
+    "static/media/세계선수권_3_한대화.jpg": "/static/media/세계선수권_3_한대화.4006f5b8484d7f191320.jpg",
+    "static/media/원년의스타_2_이만수.jpg": "/static/media/원년의스타_2_이만수.5a6d6c41845350bc5c3f.jpg",
+    "static/media/원년의스타_1_박철순.jpg": "/static/media/원년의스타_1_박철순.5f2c902c83d9a61c938b.jpg",
+    "static/media/최다득표자_2_최동원.jpg": "/static/media/최다득표자_2_최동원.791d4dfecbb2ebb90d8f.jpg",
+    "static/media/최다득표자_1_선동열.jpg": "/static/media/최다득표자_1_선동열.00529a7790f7ad686b1b.jpg",
+    "static/media/원년의스타_4_김성한.jpg": "/static/media/원년의스타_4_김성한.e63818b4c2e380daf7ac.jpg",
+    "static/media/최다득표자_3_이종범.jpg": "/static/media/최다득표자_3_이종범.c8603f90d6ad7df84f12.jpg",
+    "static/media/원년의스타_3_백인천.jpg": "/static/media/원년의스타_3_백인천.70d8d4b5550d66769c42.jpg",
+    "static/media/최다득표자_4_이승엽.jpg": "/static/media/최다득표자_4_이승엽.58f009356df883caab6c.jpg",
+    "index.html": "/index.html",
+    "main.6a07ef16.css.map": "/static/css/main.6a07ef16.css.map",
+    "main.11b47f3d.js.map": "/static/js/main.11b47f3d.js.map",
+    "787.6ef60342.chunk.js.map": "/static/js/787.6ef60342.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a07ef16.css",
+    "static/js/main.11b47f3d.js"
+  ]
+}
